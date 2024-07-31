@@ -16,7 +16,7 @@ class OlympicsScraper(ABC):
     
     def _setup_driver(self):
         chrome_options = Options()
-        chrome_options.add_argument("--headless")
+        # chrome_options.add_argument("--headless")
         service = Service(ChromeDriverManager().install())
         return webdriver.Chrome(service=service, options=chrome_options)
 

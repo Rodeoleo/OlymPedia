@@ -10,4 +10,4 @@ medal_scraper = MedalScraper(medal_url)
 
 
 day_counter = (today_date - START_DATE).days
-medal_scraper.scrape_table(day_counter)
+medal_scraper.scrape(day_counter)
