@@ -17,7 +17,7 @@ class OlympicsScraper(ABC):
     def _setup_driver(self):
         chrome_options = Options()
         # chrome_options.add_argument("--headless")
-        service = Service(ChromeDriverManager().install())
+        service = Service(executable_path="chromedriver.exe")
         return webdriver.Chrome(service=service, options=chrome_options)
 
     @abstractmethod
@@ -30,6 +30,7 @@ class OlympicsScraper(ABC):
 
     def save_table(self, df, filepath):
         df.to_csv(filepath, index=False)
-    
+
+
 
     

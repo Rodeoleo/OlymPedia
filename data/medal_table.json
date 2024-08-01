@@ -1219,5 +1219,336 @@
             "bronze": 1,
             "total": 1
         }
+    ],
+    "5": [
+        {
+            "country": "China",
+            "gold": 9,
+            "silver": 7,
+            "bronze": 3,
+            "total": 19
+        },
+        {
+            "country": "France",
+            "gold": 8,
+            "silver": 10,
+            "bronze": 8,
+            "total": 26
+        },
+        {
+            "country": "Japan",
+            "gold": 8,
+            "silver": 3,
+            "bronze": 4,
+            "total": 15
+        },
+        {
+            "country": "Australia",
+            "gold": 7,
+            "silver": 6,
+            "bronze": 3,
+            "total": 16
+        },
+        {
+            "country": "Great Britain",
+            "gold": 6,
+            "silver": 6,
+            "bronze": 5,
+            "total": 17
+        },
+        {
+            "country": "South Korea",
+            "gold": 6,
+            "silver": 3,
+            "bronze": 3,
+            "total": 12
+        },
+        {
+            "country": "United States",
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12,
+            "total": 30
+        },
+        {
+            "country": "Italy",
+            "gold": 3,
+            "silver": 6,
+            "bronze": 4,
+            "total": 13
+        },
+        {
+            "country": "Canada",
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3,
+            "total": 7
+        },
+        {
+            "country": "Germany",
+            "gold": 2,
+            "silver": 2,
+            "bronze": 2,
+            "total": 6
+        },
+        {
+            "country": "Hong Kong",
+            "gold": 2,
+            "silver": 0,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "country": "Sweden",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 2,
+            "total": 4
+        },
+        {
+            "country": "Netherlands",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "country": "Georgia",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "country": "New Zealand",
+            "gold": 1,
+            "silver": 1,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "country": "Belgium",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "country": "Kazakhstan",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "country": "South Africa",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "country": "Croatia",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Guatemala",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Ireland",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Romania",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Argentina",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Azerbaijan",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Serbia",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Slovenia",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Uzbekistan",
+            "gold": 1,
+            "silver": 0,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Hungary",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 1,
+            "total": 3
+        },
+        {
+            "country": "North Korea",
+            "gold": 0,
+            "silver": 2,
+            "bronze": 0,
+            "total": 2
+        },
+        {
+            "country": "Brazil",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 3,
+            "total": 4
+        },
+        {
+            "country": "Poland",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 2,
+            "total": 3
+        },
+        {
+            "country": "Kosovo",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Mexico",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Switzerland",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Turkey",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 1,
+            "total": 2
+        },
+        {
+            "country": "Fiji",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Mongolia",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "Tunisia",
+            "gold": 0,
+            "silver": 1,
+            "bronze": 0,
+            "total": 1
+        },
+        {
+            "country": "India",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "country": "Moldova",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 2,
+            "total": 2
+        },
+        {
+            "country": "Austria",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "country": "Egypt",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "country": "Greece",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "country": "Slovakia",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "country": "Spain",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "country": "Tajikistan",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        },
+        {
+            "country": "Ukraine",
+            "gold": 0,
+            "silver": 0,
+            "bronze": 1,
+            "total": 1
+        }
     ]
 }
